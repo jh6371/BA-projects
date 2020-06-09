@@ -29,7 +29,7 @@ Based on the statistical analysis and common knowledge, we made hypothesis for t
 Hypothesis 1: People wIth high ratio of income to expense are more likely to run behind their expenses;
 Hypothesis 2: People spend more on superfluous are more likely to make unnecessary purchases;
 Hypothesis 3: People spend more frequent by Oper 5 may often pay the bills by saving account.
-And we use the boxplot to evaluate which personality they belong to, for example, if a person spend on Oper5 20th percentile of all the people(between 0 to 25) times, he will be regareded as Neuroticism, if he spend on Oper5 about 40th percentile of all people( between 25 and 8-) he will be regareded as Agreeableness.
+And we use the boxplot to evaluate which personality they belong to, for example, if a person spend on Oper5 20th percentile of all the people(between 0 to 25) times, he will be regareded as Neuroticism, if he spend on Oper5 about 40th percentile of all people( between 25 and 80) he will be regareded as Agreeableness.
 
 # 4 Logistic model:
 
